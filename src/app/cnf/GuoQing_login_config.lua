@@ -1,0 +1,17 @@
+GuoQing_login_config = {
+	[1]={key=1,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=1,parambit=1,param=1362,},
+	[2]={key=2,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=2,parambit=2,param=1362,},
+	[3]={key=3,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=3,parambit=3,param=1362,},
+	[4]={key=4,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=4,parambit=4,param=1362,},
+	[5]={key=5,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=5,parambit=5,param=1362,},
+	[6]={key=6,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=6,parambit=6,param=1362,},
+	[7]={key=7,type=1,item_list={{itemid=13901,count=50,bind=1,},{itemid=10201,count=10,bind=1,},{itemid=13115,count=500,bind=1,},},loginday=7,parambit=7,param=1362,},
+	[8]={key=8,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=1,parambit=8,param=1362,},
+	[9]={key=9,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=2,parambit=9,param=1362,},
+	[10]={key=10,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=3,parambit=10,param=1362,},
+	[11]={key=11,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=4,parambit=11,param=1362,},
+	[12]={key=12,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=5,parambit=12,param=1362,},
+	[13]={key=13,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=6,parambit=13,param=1362,},
+	[14]={key=14,type=2,item_list={{itemid=13901,count=100,bind=1,},{itemid=12574,count=1,bind=1,},{itemid=13117,count=10,bind=1,},},loginday=7,parambit=14,param=1362,},
+	[15]={key=15,type=0,item_list={{itemid=13847,count=1,bind=1,},},loginday=0,parambit=15,param=1362,},
+}

@@ -1,0 +1,16 @@
+GameConfig.npcmap_config = {
+	[1]={key=1,id=263,type=1,name="桃源村",},
+	[2]={key=2,id=260,type=1,name="焚月城",},
+	[3]={key=3,id=204,type=1,name="征战区域",},
+	[4]={key=4,id=1,type=2,name="混世魔窟",},
+	[5]={key=5,id=4,type=2,name="焚天禁地",},
+	[6]={key=6,id=7,type=2,name="恶魔之家",},
+	[7]={key=7,id=10,type=2,name="原始部落",},
+	[8]={key=8,id=13,type=2,name="熔岩炼狱",},
+	[9]={key=9,id=15,type=2,name="巨蟒地宫",},
+	[10]={key=10,id=17,type=2,name="九重云霄",},
+	[11]={key=11,id=19,type=2,name="楼兰西域",},
+	[12]={key=12,id=21,type=2,name="神龙墓穴",},
+	[13]={key=13,id=23,type=2,name="亡灵冰宫",},
+	[14]={key=14,id=25,type=2,name="九幽海域",},
+}

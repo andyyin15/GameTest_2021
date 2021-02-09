@@ -1,0 +1,26 @@
+discounts_gift_config = {
+	[1]={id=1,price=68888,xiaoqi_price=38888,Displaygoldingot
+=180000,xiaoqi_Displaygoldingot
+=90000,Giftwriting
+="石化礼包",award={{itemid=13708,count=1,bind=1,sign=1,},{itemid=13117,count=10,bind=1,},{itemid=10201,count=5,bind=1,},{itemid=13202,count=1,bind=1,},{itemid=10912,count=1,bind=1,},{itemid=13302,count=1,bind=1,},{itemid=13102,count=1,bind=1,},{itemid=14201,count=1,bind=1,},},},
+	[2]={id=2,price=88888,xiaoqi_price=48888,Displaygoldingot
+=200000,xiaoqi_Displaygoldingot
+=100000,Giftwriting
+="群攻礼包",award={{itemid=13707,count=1,bind=1,sign=1,},{itemid=13117,count=10,bind=1,},{itemid=10201,count=5,bind=1,},{itemid=13202,count=1,bind=1,},{itemid=10912,count=1,bind=1,},{itemid=13302,count=1,bind=1,},{itemid=13102,count=1,bind=1,},{itemid=14201,count=1,bind=1,},},},
+	[3]={id=3,price=58888,xiaoqi_price=29888,Displaygoldingot
+=150000,xiaoqi_Displaygoldingot
+=75000,Giftwriting
+="疾风礼包",award={{itemid=13706,count=1,bind=1,sign=1,},{itemid=13117,count=10,bind=1,},{itemid=10201,count=5,bind=1,},{itemid=13202,count=1,bind=1,},{itemid=10912,count=1,bind=1,},{itemid=13302,count=1,bind=1,},{itemid=13102,count=1,bind=1,},{itemid=14201,count=1,bind=1,},},},
+	[4]={id=4,price=68888,xiaoqi_price=38888,Displaygoldingot
+=188888,xiaoqi_Displaygoldingot
+=98888,Giftwriting
+="直升礼包",award={{itemid=10204,count=1,bind=1,},{itemid=11003,count=30,bind=1,sign=2,},{itemid=11909,count=40,bind=1,},{itemid=13901,count=20,bind=1,},{itemid=10201,count=500,bind=1,},{itemid=13203,count=1,bind=1,},{itemid=10913,count=1,bind=1,},{itemid=13303,count=1,bind=1,},},},
+	[5]={id=5,price=288888,xiaoqi_price=148888,Displaygoldingot
+=588888,xiaoqi_Displaygoldingot
+=298888,Giftwriting
+="神兵礼包",award={{itemid=20025,count=1,bind=1,sign=2,},{itemid=24331,count=1,bind=1,sign=2,},{itemid=23331,count=1,bind=1,},{itemid=10913,count=1,bind=1,},{itemid=13203,count=1,bind=1,},{itemid=10201,count=100,bind=1,},{itemid=13602,count=1,bind=1,},{itemid=13301,count=5,bind=1,},},},
+	[6]={id=6,price=288888,xiaoqi_price=148888,Displaygoldingot
+=588888,xiaoqi_Displaygoldingot
+=298888,Giftwriting
+="鸿运礼包",award={{itemid=12807,count=1,bind=1,},{itemid=12707,count=1,bind=1,},{itemid=11003,count=20,bind=1,},{itemid=10201,count=300,bind=1,},{itemid=13901,count=500,bind=1,},{itemid=12576,count=1,bind=1,},{itemid=10913,count=1,bind=1,},{itemid=13203,count=1,bind=1,},},},
+}

@@ -1,0 +1,16 @@
+treasure_baoge_config = {
+	[1]={id=1,item_id=13824,diamond=18888,revolution=21600,},
+	[2]={id=2,item_id=10019,diamond=12888,revolution=21600,},
+	[3]={id=3,item_id=38062,diamond=13888,revolution=21600,},
+	[4]={id=4,item_id=38072,diamond=13888,revolution=21600,},
+	[5]={id=5,item_id=12651,diamond=38888,revolution=21600,},
+	[6]={id=6,item_id=27701,diamond=18888,revolution=21600,},
+	[7]={id=7,item_id=38074,diamond=13888,revolution=21600,},
+	[8]={id=8,item_id=38075,diamond=13888,revolution=21600,},
+	[9]={id=9,item_id=3401,diamond=19999,revolution=21600,},
+	[10]={id=10,item_id=3601,diamond=13888,revolution=21600,},
+	[11]={id=11,item_id=5101,diamond=7888,revolution=21600,},
+	[12]={id=12,item_id=5201,diamond=5888,revolution=21600,},
+	[13]={id=13,item_id=12653,diamond=38888,revolution=21600,},
+	[14]={id=14,item_id=12607,diamond=19999,revolution=21600,},
+}

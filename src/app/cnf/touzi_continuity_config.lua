@@ -1,0 +1,17 @@
+touzi_continuity_config = {
+	[1]={id=1,flylevel=1,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[2]={id=2,flylevel=2,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[3]={id=3,flylevel=3,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[4]={id=4,flylevel=4,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[5]={id=5,flylevel=5,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[6]={id=6,flylevel=6,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[7]={id=7,flylevel=7,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[8]={id=8,flylevel=8,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[9]={id=9,flylevel=9,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[10]={id=10,flylevel=10,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[11]={id=11,flylevel=11,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[12]={id=12,flylevel=12,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[13]={id=13,flylevel=13,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[14]={id=14,flylevel=14,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+	[15]={id=15,flylevel=15,reward={{itemid=13843,count=1,bind=1,effect=1023,},},},
+}

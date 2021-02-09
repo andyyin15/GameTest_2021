@@ -1,0 +1,18 @@
+monthactivity_Shop_config = {
+	[1]={id=1,reward_list={{itemid=12659,count=1,bind=1,},},cost=10000,limit_num=1,orderid=918,vip=10,},
+	[2]={id=2,reward_list={{itemid=20040,count=1,bind=1,quality=10,},},cost=8000,limit_num=1,orderid=919,vip=8,},
+	[3]={id=3,reward_list={{itemid=21040,count=1,bind=1,quality=10,},},cost=5000,limit_num=1,orderid=920,vip=4,},
+	[4]={id=4,reward_list={{itemid=12655,count=1,bind=1,},},cost=3000,limit_num=1,orderid=921,vip=4,},
+	[5]={id=5,reward_list={{itemid=38062,count=1,bind=1,},},cost=2000,limit_num=1,orderid=928,vip=4,},
+	[6]={id=6,reward_list={{itemid=17034,count=1,bind=1,},},cost=1000,limit_num=1,orderid=929,vip=4,},
+	[7]={id=7,reward_list={{itemid=28001,count=1,bind=1,},},cost=500,limit_num=1,orderid=930,vip=4,},
+	[8]={id=8,reward_list={{itemid=10019,count=1,bind=1,},},cost=300,limit_num=3,orderid=931,vip=4,},
+	[9]={id=9,reward_list={{itemid=10207,count=2,bind=1,},},cost=100,limit_num=10,orderid=922,vip=4,},
+	[10]={id=10,reward_list={{itemid=58008,count=1,bind=1,},},cost=100,limit_num=10,orderid=923,vip=4,},
+	[11]={id=11,reward_list={{itemid=11266,count=20,bind=1,},},cost=50,limit_num=20,orderid=924,vip=4,},
+	[12]={id=12,reward_list={{itemid=14211,count=20,bind=1,},},cost=50,limit_num=100,orderid=925,vip=4,},
+	[13]={id=13,reward_list={{itemid=11276,count=100,bind=1,},},cost=20,limit_num=999,orderid=0,vip=4,},
+	[14]={id=14,reward_list={{itemid=11322,count=100,bind=1,},},cost=20,limit_num=999,orderid=0,vip=4,},
+	[15]={id=15,reward_list={{itemid=10201,count=50,bind=1,},},cost=5,limit_num=999,orderid=0,vip=4,},
+	[16]={id=16,reward_list={{itemid=11003,count=1,bind=1,},},cost=2,limit_num=0,orderid=0,vip=4,},
+}

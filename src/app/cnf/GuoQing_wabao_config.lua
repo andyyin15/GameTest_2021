@@ -1,0 +1,16 @@
+GuoQing_wabao_config = {
+	[1]={id=1,parambit=1,param=1366,vcoin=100,item_list={{itemid=10022,count=25,bind=1,},},},
+	[2]={id=2,parambit=2,param=1366,vcoin=250,item_list={{itemid=10121,count=50,bind=1,},},},
+	[3]={id=3,parambit=3,param=1366,vcoin=400,item_list={{itemid=10023,count=10,bind=1,},},},
+	[4]={id=4,parambit=4,param=1366,vcoin=600,item_list={{itemid=10019,count=1,bind=1,},},},
+	[5]={id=5,parambit=5,param=1366,vcoin=800,item_list={{itemid=10080,count=1,bind=1,},},},
+	[6]={id=6,parambit=6,param=1366,vcoin=1000,item_list={{itemid=50434,count=1,bind=1,},},},
+	[7]={id=7,parambit=7,param=1366,vcoin=1500,item_list={{itemid=50520,count=1,bind=1,},},},
+	[8]={id=8,parambit=8,param=1366,vcoin=2000,item_list={{itemid=12512,count=3,bind=1,},},},
+	[9]={id=9,parambit=9,param=1366,vcoin=2500,item_list={{itemid=11257,count=3,bind=1,},},},
+	[10]={id=10,parambit=10,param=1366,vcoin=3000,item_list={{itemid=37603,count=1,bind=0,},},},
+	[11]={id=11,parambit=11,param=1366,vcoin=4000,item_list={{itemid=50453,count=1,bind=1,},},},
+	[12]={id=12,parambit=12,param=1366,vcoin=5000,item_list={{itemid=50454,count=1,bind=1,},},},
+	[13]={id=13,parambit=13,param=1366,vcoin=6500,item_list={{itemid=3601,count=1,bind=0,},},},
+	[14]={id=14,parambit=14,param=1366,vcoin=8000,item_list={{itemid=30005,count=1,bind=0,},},},
+}

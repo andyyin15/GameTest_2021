@@ -1,0 +1,17 @@
+MayDay_exchange_config = {
+	[1]={id=1,itemid=10020,num=1,reward_list={{itemid=13301,count=1,bind=1,effect=1020,},},gcount=0,gparam=0,icount=0,iparam=0,name="荣耀令牌(小)",viplevel=0,},
+	[2]={id=2,itemid=10020,num=2,reward_list={{itemid=10201,count=20,bind=1,effect=1021,},},gcount=0,gparam=0,icount=0,iparam=0,name="羽毛",viplevel=0,},
+	[3]={id=3,itemid=10020,num=5,reward_list={{itemid=13303,count=1,bind=1,effect=1023,},},gcount=0,gparam=0,icount=3,iparam=1097,name="荣耀令牌(大)",viplevel=0,},
+	[4]={id=4,itemid=10020,num=15,reward_list={{itemid=13825,count=1,bind=1,effect=1023,},},gcount=0,gparam=0,icount=1,iparam=1098,name="打金达人",viplevel=0,},
+	[5]={id=5,itemid=10020,num=25,reward_list={{itemid=12708,count=1,bind=1,effect=1023,},},gcount=0,gparam=0,icount=1,iparam=1099,name="魅力无限",viplevel=0,},
+	[6]={id=6,itemid=10020,num=50,reward_list={{itemid=13829,count=1,bind=1,effect=1023,},},gcount=12,gparam=338,icount=1,iparam=983,name="齐天大圣",viplevel=0,},
+	[7]={id=7,itemid=10020,num=100,reward_list={{itemid=27705,count=1,bind=0,effect=1023,},},gcount=8,gparam=315,icount=1,iparam=984,name="洪福齐天飞龙之翼",viplevel=0,},
+	[8]={id=8,itemid=10020,num=100,reward_list={{itemid=12707,count=1,bind=0,effect=1023,},},gcount=8,gparam=316,icount=1,iparam=985,name="吉祥如意",viplevel=0,},
+	[9]={id=9,itemid=10020,num=100,reward_list={{itemid=12807,count=1,bind=0,effect=1023,},},gcount=8,gparam=317,icount=1,iparam=986,name="福气临门",viplevel=0,},
+	[10]={id=10,itemid=10020,num=100,reward_list={{itemid=12710,count=1,bind=0,effect=1023,},},gcount=8,gparam=318,icount=1,iparam=1004,name="狂欢一夏",viplevel=0,},
+	[11]={id=11,itemid=10020,num=100,reward_list={{itemid=12809,count=1,bind=0,effect=1023,},},gcount=8,gparam=319,icount=1,iparam=1005,name="深海船锚",viplevel=0,},
+	[12]={id=12,itemid=10020,num=200,reward_list={{itemid=10019,count=1,bind=1,effect=1023,},},gcount=4,gparam=320,icount=1,iparam=1006,name="主宰◆锻造石",viplevel=0,},
+	[13]={id=13,itemid=10020,num=750,reward_list={{itemid=27503,count=1,bind=0,sex=1,effect=1023,},{itemid=27603,count=1,bind=0,sex=2,effect=1023,},},gcount=4,gparam=321,icount=1,iparam=1007,name="坐骑◆主宰·天马",viplevel=0,},
+	[14]={id=14,itemid=10020,num=750,reward_list={{itemid=12602,count=1,bind=1,effect=1023,},},gcount=4,gparam=322,icount=1,iparam=1008,name="双刀◆亡灵序曲",viplevel=0,},
+	[15]={id=15,itemid=10020,num=750,reward_list={{itemid=18010,count=1,bind=1,effect=1023,},},gcount=4,gparam=323,icount=1,iparam=1009,name="麻痹·捆仙绳⑩",viplevel=0,},
+}

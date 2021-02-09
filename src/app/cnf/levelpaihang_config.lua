@@ -1,0 +1,7 @@
+levelpaihang_config = {
+	[1]={rank=1,award={{itemid=12512,count=1,bind=1,effect=1022,},{itemid=12526,count=1,bind=1,effect=1022,},{itemid=22037,count=1,bind=1,effect=1022,},},xiaoqi_award={{itemid=12512,count=8,bind=1,effect=1022,},{itemid=12526,count=1,bind=1,effect=1022,},{itemid=22037,count=1,bind=1,effect=1022,},},},
+	[2]={rank=2,award={{itemid=11218,count=100,bind=1,effect=1022,},{itemid=12525,count=1,bind=1,effect=1022,},{itemid=22036,count=1,bind=1,effect=1022,},},xiaoqi_award={{itemid=11218,count=100,bind=1,effect=1022,},{itemid=12523,count=8,bind=1,effect=1022,},{itemid=22036,count=1,bind=1,effect=1022,},},},
+	[3]={rank=3,award={{itemid=11218,count=80,bind=1,effect=1022,},{itemid=12525,count=1,bind=1,effect=1022,},{itemid=22034,count=1,bind=1,effect=1022,},},xiaoqi_award={{itemid=11218,count=80,bind=1,effect=1022,},{itemid=12523,count=6,bind=1,effect=1022,},{itemid=22034,count=1,bind=1,effect=1022,},},},
+	[4]={rank=4,award={{itemid=11218,count=50,bind=1,effect=1022,},{itemid=12524,count=1,bind=1,effect=1022,},{itemid=22032,count=1,bind=1,effect=1022,},},xiaoqi_award={{itemid=11218,count=50,bind=1,effect=1022,},{itemid=12523,count=5,bind=1,effect=1022,},{itemid=22032,count=1,bind=1,effect=1022,},},},
+	[5]={rank=5,award={{itemid=11218,count=50,bind=1,effect=1022,},{itemid=12523,count=1,bind=1,effect=1022,},{itemid=22030,count=1,bind=1,effect=1022,},},xiaoqi_award={{itemid=11218,count=50,bind=1,effect=1022,},{itemid=12523,count=5,bind=1,effect=1022,},{itemid=22030,count=1,bind=1,effect=1022,},},},
+}

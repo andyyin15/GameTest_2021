@@ -1,0 +1,3 @@
+double11_wabao_config = {
+	[1]={id=1,reward_list={{itemid=10081,count=1,bind=0,},{itemid=12716,count=1,bind=0,},{itemid=12715,count=1,bind=0,},{itemid=12921,count=1,bind=0,},{itemid=12924,count=1,bind=0,},{itemid=12927,count=1,bind=0,},{itemid=12930,count=1,bind=0,sex=1,},{itemid=38065,count=1,bind=0,sex=2,},{itemid=27705,count=1,bind=0,},{itemid=50436,count=1,bind=0,},{itemid=20034,count=1,bind=0,},{itemid=3602,count=1,bind=0,},{itemid=3402,count=1,bind=0,},{itemid=2204,count=1,bind=0,},{itemid=2404,count=1,bind=0,},{itemid=1804,count=1,bind=0,},{itemid=2004,count=1,bind=0,},{itemid=12716,count=1,bind=0,},{itemid=25200,count=1,bind=0,},},},
+}

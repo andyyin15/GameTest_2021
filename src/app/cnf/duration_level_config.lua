@@ -1,0 +1,9 @@
+duration_level_config = {
+	[1]={key=1,level=200,reward_list={{itemid=50564,count=1,bind=1,sign=1,effect=1160,},{itemid=11403,count=1,bind=1,effect=1019,},{itemid=13115,count=50,bind=1,effect=1021,},{itemid=13301,count=1,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=3666,},
+	[2]={key=2,level=250,reward_list={{itemid=50565,count=1,bind=1,sign=1,effect=1160,},{itemid=11304,count=1,bind=1,effect=1019,},{itemid=13115,count=100,bind=1,effect=1021,},{itemid=13301,count=1,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=5288,},
+	[3]={key=3,level=300,reward_list={{itemid=50566,count=1,bind=1,sign=1,effect=1160,},{itemid=13202,count=1,bind=1,effect=1019,},{itemid=13115,count=150,bind=1,effect=1021,},{itemid=13301,count=2,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=8888,},
+	[4]={key=4,level=350,reward_list={{itemid=50567,count=1,bind=1,sign=1,effect=1160,},{itemid=10912,count=1,bind=1,effect=1019,},{itemid=13115,count=200,bind=1,effect=1021,},{itemid=13301,count=2,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=12999,},
+	[5]={key=5,level=400,reward_list={{itemid=50568,count=1,bind=1,sign=1,effect=1160,},{itemid=13302,count=1,bind=1,effect=1019,},{itemid=13115,count=250,bind=1,effect=1021,},{itemid=13301,count=3,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=16888,},
+	[6]={key=6,level=500,reward_list={{itemid=50569,count=1,bind=1,sign=1,effect=1160,},{itemid=10201,count=10,bind=1,effect=1019,},{itemid=13115,count=300,bind=1,effect=1021,},{itemid=13301,count=3,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=19999,},
+	[7]={key=7,level=600,reward_list={{itemid=50570,count=1,bind=1,sign=1,effect=1160,},{itemid=13117,count=10,bind=1,effect=1019,},{itemid=13115,count=400,bind=1,effect=1021,},{itemid=13301,count=5,bind=1,effect=1020,},{itemid=12525,count=1,bind=1,effect=1023,},},gold=22888,},
+}

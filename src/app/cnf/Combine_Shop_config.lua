@@ -1,0 +1,15 @@
+Combine_Shop_config = {
+	[1]={id=1,reward_list={{itemid=12813,count=1,bind=1,sign=1,},},cost=2500,limit_num=1,orderid=903,},
+	[2]={id=2,reward_list={{itemid=38066,count=1,bind=1,sign=1,},},cost=3000,limit_num=1,orderid=904,},
+	[3]={id=3,reward_list={{itemid=27703,count=1,bind=1,sign=2,},},cost=2000,limit_num=1,orderid=905,},
+	[4]={id=4,reward_list={{itemid=50432,count=1,bind=1,sign=1,},},cost=500,limit_num=1,orderid=906,},
+	[5]={id=5,reward_list={{itemid=12807,count=1,bind=1,sign=2,},},cost=300,limit_num=1,orderid=907,},
+	[6]={id=6,reward_list={{itemid=12707,count=1,bind=1,sign=2,},},cost=300,limit_num=1,orderid=908,},
+	[7]={id=7,reward_list={{itemid=12809,count=1,bind=1,sign=2,},},cost=300,limit_num=1,orderid=909,},
+	[8]={id=8,reward_list={{itemid=12710,count=1,bind=1,sign=3,},},cost=300,limit_num=1,orderid=910,},
+	[9]={id=9,reward_list={{itemid=13825,count=1,bind=1,sign=2,},},cost=100,limit_num=5,orderid=911,},
+	[10]={id=10,reward_list={{itemid=11503,count=1,bind=1,sign=1,},},cost=50,limit_num=1,orderid=912,},
+	[11]={id=11,reward_list={{itemid=11322,count=100,bind=1,},},cost=10,limit_num=0,orderid=0,},
+	[12]={id=12,reward_list={{itemid=11276,count=100,bind=1,},},cost=10,limit_num=0,orderid=0,},
+	[13]={id=13,reward_list={{itemid=11003,count=1,bind=1,},},cost=1,limit_num=0,orderid=0,},
+}

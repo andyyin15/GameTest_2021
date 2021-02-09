@@ -1,0 +1,17 @@
+sd_dongkunum_config = {
+	[1]={id=1,param=2748,bit=1,vcoin=18,subclass=1,award={{itemid=118000,count=5,bind=1,},},},
+	[2]={id=2,param=2748,bit=2,vcoin=28,subclass=1,award={{itemid=10067,count=2,bind=1,},},},
+	[3]={id=3,param=2748,bit=3,vcoin=48,subclass=1,award={{itemid=118004,count=1,bind=1,},},},
+	[4]={id=4,param=2748,bit=4,vcoin=68,subclass=1,award={{itemid=50308,count=2,bind=1,},},},
+	[5]={id=5,param=2748,bit=5,vcoin=98,subclass=1,award={{itemid=118001,count=5,bind=1,},},},
+	[6]={id=6,param=2748,bit=6,vcoin=168,subclass=1,award={{itemid=50309,count=3,bind=1,},},},
+	[7]={id=7,param=2748,bit=7,vcoin=238,subclass=1,award={{itemid=118005,count=1,bind=1,},},},
+	[8]={id=8,param=2748,bit=8,vcoin=318,subclass=1,award={{itemid=27714,count=1,bind=1,},},},
+	[9]={id=9,param=2748,bit=9,vcoin=438,subclass=1,award={{itemid=118002,count=5,bind=1,},},},
+	[10]={id=10,param=2748,bit=10,vcoin=558,subclass=1,award={{itemid=12657,count=1,bind=1,},},},
+	[11]={id=11,param=2748,bit=11,vcoin=648,subclass=1,award={{itemid=118006,count=1,bind=1,},},},
+	[12]={id=12,param=2748,bit=12,vcoin=758,subclass=1,award={{itemid=50310,count=4,bind=1,},},},
+	[13]={id=13,param=2748,bit=13,vcoin=888,subclass=1,award={{itemid=12745,count=1,bind=1,},},},
+	[14]={id=14,param=2748,bit=14,vcoin=988,subclass=1,award={{itemid=50311,count=5,bind=1,},},},
+	[15]={id=15,param=2748,bit=15,vcoin=1088,subclass=1,award={{itemid=12838,count=1,bind=1,},},},
+}

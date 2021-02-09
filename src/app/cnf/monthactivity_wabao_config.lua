@@ -1,0 +1,3 @@
+monthactivity_wabao_config = {
+	[1]={id=1,reward_list={{itemid=20037,count=1,bind=0,effect=1023,sign=3,},{itemid=12815,count=1,bind=0,effect=1023,sign=3,},{itemid=13824,count=1,bind=0,effect=1023,sign=1,},{itemid=12716,count=1,bind=0,effect=1023,sign=1,},{itemid=10067,count=1,bind=0,effect=1023,sign=1,},{itemid=10207,count=1,bind=0,effect=1023,sign=1,},{itemid=10019,count=1,bind=0,effect=1023,sign=2,},{itemid=20037,count=1,bind=0,effect=1023,sign=1,},{itemid=21035,count=1,bind=0,effect=1023,sign=1,},{itemid=2203,count=1,bind=0,effect=1023,sign=1,},{itemid=2403,count=1,bind=0,effect=1023,sign=1,},{itemid=1803,count=1,bind=0,sign=1,},{itemid=2003,count=1,bind=0,effect=1023,sign=1,},},},
+}

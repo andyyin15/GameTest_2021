@@ -1,0 +1,18 @@
+sd_baodi_reward = {
+	[1]={id=1,times=5,isRecycle=0,itemList={{itemid=10207,count=1,bind=1,},{itemid=50519,count=1,bind=1,},{itemid=50446,count=1,bind=1,},{itemid=10019,count=1,bind=1,},},},
+	[2]={id=2,times=10,isRecycle=0,itemList={{itemid=12707,count=1,bind=1,},{itemid=10019,count=1,bind=1,},{itemid=10207,count=1,bind=1,},{itemid=50520,count=1,bind=1,},{itemid=50447,count=1,bind=1,},},},
+	[3]={id=3,times=25,isRecycle=0,itemList={{itemid=10019,count=1,bind=1,},{itemid=10207,count=1,bind=1,},{itemid=12807,count=1,bind=1,},{itemid=50520,count=1,bind=1,},{itemid=50447,count=1,bind=1,},},},
+	[4]={id=4,times=50,isRecycle=0,itemList={{itemid=1804,count=1,bind=1,},{itemid=2004,count=1,bind=1,},{itemid=2204,count=1,bind=1,},{itemid=2404,count=1,bind=1,},{itemid=11112,count=1,bind=1,},},},
+	[5]={id=5,times=75,isRecycle=0,itemList={{itemid=50308,count=1,bind=1,},{itemid=50309,count=1,bind=1,},{itemid=50310,count=1,bind=1,},{itemid=50311,count=1,bind=1,},{itemid=11112,count=1,bind=1,},},},
+	[6]={id=6,times=100,isRecycle=0,itemList={{itemid=28001,count=1,bind=1,},{itemid=38074,count=1,bind=1,},{itemid=38075,count=1,bind=1,},},},
+	[7]={id=7,times=125,isRecycle=0,itemList={{itemid=28001,count=1,bind=1,},{itemid=50551,count=1,bind=1,},{itemid=10019,count=1,bind=1,},},},
+	[8]={id=8,times=150,isRecycle=0,itemList={{itemid=1804,count=1,bind=1,},{itemid=2004,count=1,bind=1,},{itemid=2204,count=1,bind=1,},{itemid=2404,count=1,bind=1,},},},
+	[9]={id=9,times=200,isRecycle=0,itemList={{itemid=50308,count=1,bind=1,},{itemid=50309,count=1,bind=1,},{itemid=50310,count=1,bind=1,},{itemid=50311,count=1,bind=1,},},},
+	[10]={id=10,times=250,isRecycle=0,itemList={{itemid=3401,count=1,bind=1,},{itemid=3601,count=1,bind=1,},},},
+	[11]={id=11,times=350,isRecycle=0,itemList={{itemid=50591,count=1,bind=1,},{itemid=50592,count=1,bind=1,},},},
+	[12]={id=12,times=500,isRecycle=0,itemList={{itemid=118030,count=1,bind=1,},},},
+	[13]={id=13,times=600,isRecycle=0,itemList={{itemid=10048,count=1,bind=1,},{itemid=10049,count=1,bind=1,},},},
+	[14]={id=14,times=800,isRecycle=0,itemList={{itemid=12716,count=1,bind=1,},},},
+	[15]={id=15,times=1000,isRecycle=0,itemList={{itemid=12815,count=1,bind=1,},},},
+	[16]={id=16,times=1500,isRecycle=0,itemList={{itemid=25200,count=1,bind=1,},{itemid=22070,count=1,bind=1,},},},
+}

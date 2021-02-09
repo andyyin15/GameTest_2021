@@ -1,0 +1,17 @@
+zhoumoactivity_byzs_config = {
+	[1]={id=1,reward_list={{itemid=69001,count=1,bind=0,effect=1160,sign=3,},},},
+	[2]={id=2,reward_list={{itemid=10207,count=1,bind=0,effect=1160,sign=3,},},},
+	[3]={id=3,reward_list={{itemid=12548,count=1,bind=0,effect=1145,sign=0,},},},
+	[4]={id=4,reward_list={{itemid=50410,count=1,bind=0,effect=1145,sign=0,},},},
+	[5]={id=5,reward_list={{itemid=11414,count=1,bind=0,effect=1145,sign=0,},},},
+	[6]={id=6,reward_list={{itemid=11256,count=1,bind=0,effect=1145,sign=0,},},},
+	[7]={id=7,reward_list={{itemid=50446,count=1,bind=0,effect=1145,sign=0,},},},
+	[8]={id=8,reward_list={{itemid=58701,count=1,bind=0,effect=1145,sign=0,},},},
+	[9]={id=9,reward_list={{itemid=12596,count=1,bind=0,effect=1145,sign=0,},},},
+	[10]={id=10,reward_list={{itemid=58801,count=1,bind=0,effect=1145,sign=0,},},},
+	[11]={id=11,reward_list={{itemid=50344,count=1,bind=0,effect=1145,sign=0,},},},
+	[12]={id=12,reward_list={{itemid=10019,count=1,bind=0,effect=1160,sign=3,},},},
+	[13]={id=13,reward_list={{itemid=59001,count=1,bind=0,effect=1145,sign=0,},},},
+	[14]={id=14,reward_list={{itemid=12512,count=1,bind=0,effect=1160,sign=3,},},},
+	[15]={id=15,reward_list={{itemid=58901,count=1,bind=0,effect=1145,sign=0,},},},
+}

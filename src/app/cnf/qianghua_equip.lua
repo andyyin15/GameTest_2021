@@ -1,0 +1,14 @@
+GameConfig.qianghua_equip = {
+	[1]={entry=1,gold=50000,rate=100,yuanbao=0,transferType=0,transferMoney=10000,xiaoqi_transferMoney=10000,buyCountType=0,buyCountMoney=0,forceFailureCount=0,resetGold=10000,minAttack=0,maxAttack=4,get_way={29,30,31,32,33,34,35,36,37,38},EquipFlyLevel=1,},
+	[2]={entry=2,gold=100000,rate=90,yuanbao=8,transferType=0,transferMoney=30000,xiaoqi_transferMoney=30000,buyCountType=0,buyCountMoney=50000,forceFailureCount=0,resetGold=10000,minAttack=0,maxAttack=9,get_way={},EquipFlyLevel=1,},
+	[3]={entry=3,gold=200000,rate=85,yuanbao=24,transferType=0,transferMoney=50000,xiaoqi_transferMoney=50000,buyCountType=0,buyCountMoney=200000,forceFailureCount=0,resetGold=10000,minAttack=0,maxAttack=15,get_way={},EquipFlyLevel=1,},
+	[4]={entry=4,gold=300000,rate=70,yuanbao=72,transferType=0,transferMoney=70000,xiaoqi_transferMoney=70000,buyCountType=0,buyCountMoney=400000,forceFailureCount=0,resetGold=10000,minAttack=0,maxAttack=23,get_way={},EquipFlyLevel=1,},
+	[5]={entry=5,gold=400000,rate=65,yuanbao=216,transferType=0,transferMoney=100000,xiaoqi_transferMoney=100000,buyCountType=0,buyCountMoney=500000,forceFailureCount=0,resetGold=10000,minAttack=0,maxAttack=34,get_way={},EquipFlyLevel=1,},
+	[6]={entry=6,gold=500000,rate=50,yuanbao=648,transferType=0,transferMoney=300000,xiaoqi_transferMoney=300000,buyCountType=0,buyCountMoney=600000,forceFailureCount=1,resetGold=10000,minAttack=0,maxAttack=50,get_way={},EquipFlyLevel=1,},
+	[7]={entry=7,gold=600000,rate=40,yuanbao=1296,transferType=0,transferMoney=600000,xiaoqi_transferMoney=600000,buyCountType=2,buyCountMoney=50,forceFailureCount=1,resetGold=10000,minAttack=0,maxAttack=74,get_way={},EquipFlyLevel=1,},
+	[8]={entry=8,gold=700000,rate=30,yuanbao=2592,transferType=2,transferMoney=200,xiaoqi_transferMoney=100,buyCountType=2,buyCountMoney=150,forceFailureCount=2,resetGold=10000,minAttack=0,maxAttack=105,get_way={},EquipFlyLevel=1,},
+	[9]={entry=9,gold=1000000,rate=25,yuanbao=5184,transferType=2,transferMoney=500,xiaoqi_transferMoney=250,buyCountType=2,buyCountMoney=200,forceFailureCount=2,resetGold=10000,minAttack=0,maxAttack=161,get_way={},EquipFlyLevel=1,},
+	[10]={entry=10,gold=1500000,rate=15,yuanbao=7776,transferType=2,transferMoney=800,xiaoqi_transferMoney=400,buyCountType=2,buyCountMoney=300,forceFailureCount=3,resetGold=10000,minAttack=0,maxAttack=225,get_way={},EquipFlyLevel=1,},
+	[11]={entry=11,gold=2000000,rate=10,yuanbao=11664,transferType=2,transferMoney=1200,xiaoqi_transferMoney=600,buyCountType=2,buyCountMoney=500,forceFailureCount=3,resetGold=10000,minAttack=0,maxAttack=296,get_way={},EquipFlyLevel=1,},
+	[12]={entry=12,gold=3000000,rate=5,yuanbao=17496,transferType=2,transferMoney=1800,xiaoqi_transferMoney=900,buyCountType=2,buyCountMoney=800,forceFailureCount=5,resetGold=10000,minAttack=0,maxAttack=395,get_way={},EquipFlyLevel=1,},
+}

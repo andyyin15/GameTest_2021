@@ -1,0 +1,16 @@
+palace_boss_config = {
+	[1]={number=1,monsters={{bossId=19447,x=57,y=105,},},map=950,position=105,time=0,display=1,display_everyday=1,gparam=589,},
+	[2]={number=2,monsters={{bossId=19448,x=39,y=131,},},map=950,position=131,time=0,display=1,display_everyday=1,gparam=590,},
+	[3]={number=3,monsters={{bossId=19449,x=26,y=153,},},map=950,position=153,time=0,display=1,display_everyday=1,gparam=591,},
+	[4]={number=4,monsters={{bossId=19450,x=67,y=156,},},map=950,position=156,time=0,display=1,display_everyday=1,gparam=592,},
+	[5]={number=5,monsters={{bossId=19451,x=88,y=127,},},map=950,position=127,time=300000,display=1,display_everyday=1,gparam=593,},
+	[6]={number=6,monsters={{bossId=19452,x=73,y=179,},},map=950,position=179,time=300000,display=1,display_everyday=1,gparam=594,},
+	[7]={number=7,monsters={{bossId=19453,x=92,y=161,},},map=950,position=161,time=300000,display=1,display_everyday=1,gparam=595,},
+	[8]={number=8,monsters={{bossId=19454,x=120,y=132,},},map=950,position=132,time=300000,display=1,display_everyday=1,gparam=596,},
+	[9]={number=9,monsters={{bossId=19455,x=90,y=194,},},map=950,position=194,time=600000,display=1,display_everyday=1,gparam=597,},
+	[10]={number=10,monsters={{bossId=19456,x=123,y=157,},},map=950,position=157,time=600000,display=1,display_everyday=1,gparam=598,},
+	[11]={number=11,monsters={{bossId=19457,x=69,y=129,},},map=950,position=129,time=600000,display=1,display_everyday=1,gparam=599,},
+	[12]={number=12,monsters={{bossId=19458,x=102,y=108,},},map=950,position=108,time=600000,display=1,display_everyday=1,gparam=600,},
+	[13]={number=13,monsters={{bossId=19459,x=123,y=181,},},map=950,position=181,time=1200000,display=1,display_everyday=1,gparam=601,},
+	[14]={number=14,monsters={{bossId=19460,x=110,y=188,},},map=950,position=188,time=1200000,display=1,display_everyday=2,gparam=602,},
+}

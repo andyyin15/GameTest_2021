@@ -1,0 +1,3 @@
+MayDay_activity_Treasure = {
+	[1]={id=1,item_list={{itemid=12801,count=1,bind=0,effect=1023,sign=1,},{itemid=12704,count=1,bind=0,effect=1023,sign=1,},{itemid=12531,count=1,bind=0,effect=1023,sign=1,},{itemid=28001,count=1,bind=0,effect=1023,sign=1,},{itemid=12529,count=1,bind=0,effect=1023,sign=2,},{itemid=12544,count=1,bind=0,effect=1023,sign=2,},{itemid=25200,count=1,bind=0,effect=1023,sign=3,},{itemid=12802,count=1,bind=0,effect=1023,sign=1,},{itemid=12702,count=1,bind=0,effect=1023,sign=1,},{itemid=2203,count=1,bind=0,effect=1023,sign=2,},{itemid=2403,count=1,bind=0,effect=1023,sign=2,},{itemid=1803,count=1,bind=0,effect=1023,sign=2,},{itemid=2003,count=1,bind=0,effect=1023,sign=2,},{itemid=2203,count=1,bind=0,effect=1023,sign=2,},},},
+}

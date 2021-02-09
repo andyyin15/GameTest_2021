@@ -1,0 +1,17 @@
+treasure_seashop_config = {
+	[1]={index=1,itemid=10144,score=1,bind=1,sendLog=1,num=1,level=0,day=0,param=0,count=0,},
+	[2]={index=2,itemid=10136,score=1,bind=1,sendLog=1,num=1,level=0,day=0,param=0,count=0,},
+	[3]={index=3,itemid=10140,score=4,bind=1,sendLog=1,num=1,level=0,day=0,param=0,count=0,},
+	[4]={index=4,itemid=10137,score=8,bind=1,sendLog=1,num=1,level=0,day=0,param=0,count=0,},
+	[5]={index=5,itemid=11328,score=10,bind=1,sendLog=1,num=100,level=0,day=0,param=0,count=0,},
+	[6]={index=6,itemid=50623,score=500,bind=1,sendLog=1,num=1,level=0,day=0,param=0,count=0,},
+	[7]={index=7,itemid=10166,score=500,bind=1,sendLog=1,num=1,level=0,day=0,param=2790,count=1,},
+	[8]={index=8,itemid=10165,score=1000,bind=1,sendLog=1,num=1,level=0,day=0,param=2791,count=1,},
+	[9]={index=9,itemid=10167,score=1000,bind=1,sendLog=1,num=1,level=0,day=0,param=2792,count=1,},
+	[10]={index=10,itemid=10161,score=1500,bind=1,sendLog=1,num=1,level=0,day=0,param=2793,count=1,},
+	[11]={index=11,itemid=10162,score=1500,bind=1,sendLog=1,num=1,level=0,day=0,param=2794,count=1,},
+	[12]={index=12,itemid=10163,score=2000,bind=1,sendLog=1,num=1,level=0,day=0,param=2795,count=1,},
+	[13]={index=13,itemid=10164,score=2000,bind=1,sendLog=1,num=1,level=0,day=0,param=2796,count=1,},
+	[14]={index=14,itemid=12836,score=5000,bind=1,sendLog=1,num=1,level=0,day=48,param=2797,count=4,},
+	[15]={index=15,itemid=12734,score=5000,bind=1,sendLog=1,num=1,level=0,day=48,param=2798,count=4,},
+}

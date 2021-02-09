@@ -1,0 +1,8 @@
+allPeople_Elites_config = {
+	[1]={id=1,award={{itemid=50341,count=1,bind=1,job=0,},{itemid=11102,count=4,bind=1,job=0,},{itemid=13701,count=1,bind=1,job=0,},{itemid=11001,count=1,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只70级地图精英怪物",},
+	[2]={id=2,award={{itemid=50342,count=1,bind=1,job=0,},{itemid=11102,count=8,bind=1,job=0,},{itemid=13701,count=1,bind=1,job=0,},{itemid=11001,count=2,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只75级地图精英怪物",},
+	[3]={id=3,award={{itemid=23024,count=1,bind=1,job=1,},{itemid=23025,count=1,bind=1,job=2,},{itemid=23026,count=1,bind=1,job=3,},{itemid=11102,count=12,bind=1,job=0,},{itemid=13701,count=2,bind=1,job=0,},{itemid=11001,count=3,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只1转地图精英怪物",},
+	[4]={id=4,award={{itemid=23027,count=1,bind=1,job=1,},{itemid=23028,count=1,bind=1,job=2,},{itemid=23029,count=1,bind=1,job=3,},{itemid=11401,count=10,bind=1,job=0,},{itemid=13701,count=3,bind=1,job=0,},{itemid=11001,count=4,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只2转地图精英怪物",},
+	[5]={id=5,award={{itemid=25030,count=1,bind=1,job=1,},{itemid=25031,count=1,bind=1,job=2,},{itemid=25032,count=1,bind=1,job=3,},{itemid=11401,count=15,bind=1,job=0,},{itemid=13701,count=4,bind=1,job=0,},{itemid=11001,count=5,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只3转地图精英怪物",},
+	[6]={id=6,award={{itemid=24030,count=1,bind=1,job=1,},{itemid=24031,count=1,bind=1,job=2,},{itemid=24032,count=1,bind=1,job=3,},{itemid=11401,count=20,bind=1,job=0,},{itemid=13701,count=5,bind=1,job=0,},{itemid=11001,count=6,bind=1,job=0,},{itemid=11702,count=1,bind=1,job=0,},},num=10,desc="10只4转地图精英怪物",},
+}

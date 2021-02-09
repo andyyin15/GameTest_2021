@@ -1,0 +1,5 @@
+newfirst_recharge_config = {
+	[1]={day=1,id=1,key=0,zengsong=0,dypic="0.0",reward_list1={{itemid=14605,count=1,bind=1,effect=1303,},{itemid=14553,count=15,bind=1,effect=1303,},{itemid=45015,count=1,bind=1,effect=1303,},{itemid=15474,count=1,bind=1,effect=1303,},{itemid=17010,count=1,bind=1,effect=1303,strength=5,slevel=5,},},},
+	[2]={day=2,id=2,key=0,zengsong=0,dypic="0.0",reward_list1={{itemid=17020,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17030,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17040,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17050,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17060,count=1,bind=1,effect=1303,strength=5,slevel=5,},},},
+	[3]={day=3,id=3,key=0,zengsong=0,dypic="0.0",reward_list1={{itemid=17070,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17080,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17090,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=17100,count=1,bind=1,effect=1303,strength=5,slevel=5,},{itemid=14548,count=2,bind=1,effect=1302,},},},
+}

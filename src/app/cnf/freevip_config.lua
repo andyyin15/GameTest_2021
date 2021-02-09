@@ -1,0 +1,386 @@
+freevip_config = {
+	[1]={lv=1,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=143,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加20</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP1</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP1</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=1,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=42,},
+	[2]={lv=2,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=144,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加40</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP2</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP2</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=1,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=84,},
+	[3]={lv=3,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=145,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加60</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP3</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP3</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=2,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=126,},
+	[4]={lv=4,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=146,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加80</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP4</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP4</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=2,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=168,},
+	[5]={lv=5,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=147,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加100</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP5</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP5</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=3,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=210,},
+	[6]={lv=6,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=148,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加120</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP6</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP6</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=3,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=252,},
+	[7]={lv=7,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=149,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加140</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP7</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP7</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=4,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=294,},
+	[8]={lv=8,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=150,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加160</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP8</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP8</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=14210,count=4,bind=1,effect=1023,},{itemid=50336,count=1,bind=1,effect=1023,},{itemid=11402,count=1,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=336,},
+	[9]={lv=9,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=151,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加180</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP9</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP9</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=378,},
+	[10]={lv=10,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=152,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加200</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP10</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP10</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=420,},
+	[11]={lv=11,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=153,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加220</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP11</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP11</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=462,},
+	[12]={lv=12,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=154,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加240</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP12</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP12</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=504,},
+	[13]={lv=13,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=155,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加260</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP13</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP13</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=546,},
+	[14]={lv=14,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=156,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加280</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP14</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP14</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=588,},
+	[15]={lv=15,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=157,offline_extra=0.0,extra_exp=0,free_enter_boss_map=0,free_alive_times=0,bullion_use_times=0,auto_buy_drug=0,recycle_equip_quick=0,use_warehouse_quick=0,daily_pray=0,number=5,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加1%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 2.攻击上限增加300</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.每日免费复活1次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 4.VIP等级礼包：VIP15</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP聊天标识：VIP15</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 6.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=630,},
+	[16]={lv=16,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=158,offline_extra=1.2,extra_exp=0,free_enter_boss_map=1,free_alive_times=0,bullion_use_times=30,auto_buy_drug=0,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=6,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加2%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.仓库空间开启：第1页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 3.攻击上限增加320</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 4.每日免费复活2次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 5.VIP等级礼包：VIP16</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 6.VIP聊天标识：VIP16</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 7.提升攻击速度：0.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=1,bind=1,effect=1023,},{itemid=50336,count=2,bind=1,effect=1023,},{itemid=11402,count=2,bind=1,effect=1023,},},Keepwarehouse=0,zhanli=700,},
+	[17]={lv=17,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=159,offline_extra=1.2,extra_exp=0,free_enter_boss_map=2,free_alive_times=0,bullion_use_times=60,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=7,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.杀怪爆率增加3%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.仓库空间开启：第1页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 4.攻击上限增加340</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.每日免费复活2次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 6.VIP等级礼包：VIP17</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP聊天标识：VIP17</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 8.提升攻击速度：1.0%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=3,bind=1,effect=1023,},{itemid=50336,count=3,bind=1,effect=1023,},{itemid=11402,count=3,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=770,},
+	[18]={lv=18,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=160,offline_extra=1.2,extra_exp=0,free_enter_boss_map=3,free_alive_times=1,bullion_use_times=120,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=8,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP1层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加5%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第1页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加360</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活2次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP18</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP18</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 9.提升攻击速度：1.5%</COLOR><BR>]=],day=1,reward_item={{itemid=11003,count=4,bind=1,effect=1023,},{itemid=50336,count=4,bind=1,effect=1023,},{itemid=13105,count=2,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=840,},
+	[19]={lv=19,bossCategory={{id=1,num=10,},{id=2,num=10,},},buff_id=161,offline_extra=1.2,extra_exp=1,free_enter_boss_map=3,free_alive_times=2,bullion_use_times=150,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP1层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加7%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第2页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加380</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活3次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP19</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP19</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加2次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：2.0%</COLOR><BR>]=],day=1,reward_item={{itemid=12308,count=1,bind=1,effect=1023,},{itemid=50336,count=4,bind=1,effect=1023,},{itemid=13105,count=3,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=1000,},
+	[20]={lv=20,bossCategory={{id=2,num=10,},{id=3,num=10,},},buff_id=162,offline_extra=1.2,extra_exp=4,free_enter_boss_map=3,free_alive_times=3,bullion_use_times=180,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP2层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加9%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第2页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加400</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活3次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP20</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP20</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加2次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：2.5%</COLOR><BR>]=],day=1,reward_item={{itemid=12308,count=2,bind=1,effect=1023,},{itemid=50336,count=6,bind=1,effect=1023,},{itemid=10912,count=2,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=2000,},
+	[21]={lv=21,bossCategory={{id=2,num=10,},{id=3,num=10,},},buff_id=163,offline_extra=1.2,extra_exp=6,free_enter_boss_map=3,free_alive_times=4,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP2层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加11%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第2页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加420</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活3次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP21</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP21</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加3次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：3.0%</COLOR><BR>]=],day=2,reward_item={{itemid=12308,count=3,bind=1,effect=1023,},{itemid=50336,count=7,bind=1,effect=1023,},{itemid=11276,count=15,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=3500,},
+	[22]={lv=22,bossCategory={{id=2,num=10,},{id=3,num=10,},},buff_id=164,offline_extra=1.2,extra_exp=8,free_enter_boss_map=3,free_alive_times=5,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP3层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加13%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第2页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加440</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP22</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP22</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加3次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：3.5%</COLOR><BR>]=],day=2,reward_item={{itemid=12308,count=4,bind=1,effect=1023,},{itemid=50336,count=8,bind=1,effect=1023,},{itemid=11276,count=20,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=5000,},
+	[23]={lv=23,bossCategory={{id=3,num=10,},{id=4,num=10,},},buff_id=165,offline_extra=1.2,extra_exp=10,free_enter_boss_map=3,free_alive_times=5,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP3层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加15%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第2页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加460</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP23</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP23</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：4.0%</COLOR><BR>]=],day=2,reward_item={{itemid=12308,count=5,bind=1,effect=1023,},{itemid=50336,count=9,bind=1,effect=1023,},{itemid=11276,count=25,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=6800,},
+	[24]={lv=24,bossCategory={{id=4,num=10,},{id=5,num=10,},},buff_id=166,offline_extra=1.2,extra_exp=12,free_enter_boss_map=3,free_alive_times=6,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP4层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加17%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第3页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加480</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP24</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP24</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：4.5%</COLOR><BR>]=],day=2,reward_item={{itemid=12308,count=6,bind=1,effect=1023,},{itemid=50336,count=10,bind=1,effect=1023,},{itemid=11276,count=30,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=8600,},
+	[25]={lv=25,bossCategory={{id=4,num=10,},{id=5,num=10,},},buff_id=167,offline_extra=1.2,extra_exp=14,free_enter_boss_map=3,free_alive_times=6,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP4层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加19%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第3页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加500</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP25</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP25</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加4次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：5.0%</COLOR><BR>]=],day=3,reward_item={{itemid=12308,count=7,bind=1,effect=1023,},{itemid=50336,count=11,bind=1,effect=1023,},{itemid=11266,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=10400,},
+	[26]={lv=26,bossCategory={{id=5,num=10,},{id=6,num=10,},},buff_id=168,offline_extra=1.2,extra_exp=16,free_enter_boss_map=3,free_alive_times=7,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP5层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加20%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第3页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加525</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP26</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP26</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：5.5%</COLOR><BR>]=],day=3,reward_item={{itemid=12308,count=8,bind=1,effect=1023,},{itemid=50336,count=12,bind=1,effect=1023,},{itemid=11276,count=40,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=12200,},
+	[27]={lv=27,bossCategory={{id=5,num=10,},{id=6,num=10,},},buff_id=169,offline_extra=1.2,extra_exp=18,free_enter_boss_map=3,free_alive_times=7,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP5层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加21%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第3页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加550</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP27</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP27</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：6.0%</COLOR><BR>]=],day=3,reward_item={{itemid=12308,count=9,bind=1,effect=1023,},{itemid=50336,count=13,bind=1,effect=1023,},{itemid=11276,count=60,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=14000,},
+	[28]={lv=28,bossCategory={{id=6,num=10,},{id=7,num=10,},},buff_id=170,offline_extra=1.2,extra_exp=20,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP5层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加22%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第3页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加575</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP28</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP28</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加5次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：6.5%</COLOR><BR>]=],day=4,reward_item={{itemid=12308,count=10,bind=1,effect=1023,},{itemid=50336,count=14,bind=1,effect=1023,},{itemid=11276,count=80,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=15800,},
+	[29]={lv=29,bossCategory={{id=6,num=10,},{id=7,num=10,},},buff_id=171,offline_extra=1.2,extra_exp=22,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP6层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加23%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加600</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP29</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP29</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：7.0%</COLOR><BR>]=],day=4,reward_item={{itemid=12208,count=2,bind=1,effect=1023,},{itemid=50336,count=15,bind=1,effect=1023,},{itemid=11267,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=17600,},
+	[30]={lv=30,bossCategory={{id=7,num=10,},{id=8,num=10,},},buff_id=172,offline_extra=1.2,extra_exp=24,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP6层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加24%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加625</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP30</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP30</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：7.5%</COLOR><BR>]=],day=5,reward_item={{itemid=12208,count=3,bind=1,effect=1023,},{itemid=50336,count=16,bind=1,effect=1023,},{itemid=11276,count=60,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=19400,},
+	[31]={lv=31,bossCategory={{id=7,num=10,},{id=8,num=10,},},buff_id=173,offline_extra=1.2,extra_exp=26,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP6层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加25%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加655</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP31</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP31</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：8.0%</COLOR><BR>]=],day=5,reward_item={{itemid=12208,count=4,bind=1,effect=1023,},{itemid=50336,count=17,bind=1,effect=1023,},{itemid=11276,count=60,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=21200,},
+	[32]={lv=32,bossCategory={{id=8,num=10,},{id=9,num=10,},},buff_id=174,offline_extra=1.2,extra_exp=28,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP6层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加26%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加685</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP32</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP32</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：8.5%</COLOR><BR>]=],day=7,reward_item={{itemid=12208,count=5,bind=1,effect=1023,},{itemid=50336,count=18,bind=1,effect=1023,},{itemid=11276,count=70,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=23000,},
+	[33]={lv=33,bossCategory={{id=9,num=10,},{id=10,num=10,},},buff_id=175,offline_extra=1.2,extra_exp=30,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP6层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加27%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加715</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP33</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP33</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加6次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：9.0%</COLOR><BR>]=],day=9,reward_item={{itemid=12208,count=6,bind=1,effect=1023,},{itemid=50336,count=19,bind=1,effect=1023,},{itemid=11276,count=80,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=24800,},
+	[34]={lv=34,bossCategory={{id=11,num=10,},{id=12,num=10,},},buff_id=176,offline_extra=1.2,extra_exp=32,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP7层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加28%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第4页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加745</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP34</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP34</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：9.5%</COLOR><BR>]=],day=12,reward_item={{itemid=12208,count=7,bind=1,effect=1023,},{itemid=50336,count=20,bind=1,effect=1023,},{itemid=11268,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=26600,},
+	[35]={lv=35,bossCategory={{id=11,num=10,},{id=12,num=10,},},buff_id=177,offline_extra=1.2,extra_exp=34,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP7层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加29%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加775</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP35</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP35</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：10.0%</COLOR><BR>]=],day=15,reward_item={{itemid=12208,count=8,bind=1,effect=1023,},{itemid=50336,count=22,bind=1,effect=1023,},{itemid=11276,count=140,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=28400,},
+	[36]={lv=36,bossCategory={{id=12,num=10,},{id=13,num=10,},},buff_id=178,offline_extra=1.2,extra_exp=36,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP7层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加30%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加810</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP36</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP36</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：10.5%</COLOR><BR>]=],day=18,reward_item={{itemid=12208,count=9,bind=1,effect=1023,},{itemid=50336,count=24,bind=1,effect=1023,},{itemid=11276,count=160,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=30200,},
+	[37]={lv=37,bossCategory={{id=12,num=10,},{id=13,num=10,},},buff_id=179,offline_extra=1.2,extra_exp=38,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP7层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加31%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加845</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP37</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP37</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：11.0%</COLOR><BR>]=],day=21,reward_item={{itemid=12208,count=10,bind=1,effect=1023,},{itemid=50336,count=26,bind=1,effect=1023,},{itemid=11276,count=200,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=32000,},
+	[38]={lv=38,bossCategory={{id=13,num=10,},{id=14,num=10,},},buff_id=180,offline_extra=1.2,extra_exp=40,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP7层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加32%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加880</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP38</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP38</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加7次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：11.5%</COLOR><BR>]=],day=25,reward_item={{itemid=12208,count=11,bind=1,effect=1023,},{itemid=50336,count=28,bind=1,effect=1023,},{itemid=11269,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=33800,},
+	[39]={lv=39,bossCategory={{id=13,num=10,},{id=14,num=10,},},buff_id=181,offline_extra=1.2,extra_exp=42,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加33%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加915</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP39</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP39</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：12.0%</COLOR><BR>]=],day=30,reward_item={{itemid=12208,count=12,bind=1,effect=1023,},{itemid=50336,count=30,bind=1,effect=1023,},{itemid=11276,count=250,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=35600,},
+	[40]={lv=40,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=182,offline_extra=1.2,extra_exp=44,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加34%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第5页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加955</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP40</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP40</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：12.5%</COLOR><BR>]=],day=35,reward_item={{itemid=12208,count=13,bind=1,effect=1023,},{itemid=50336,count=32,bind=1,effect=1023,},{itemid=11276,count=250,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=37400,},
+	[41]={lv=41,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=183,offline_extra=1.2,extra_exp=46,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加35%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第6页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加1000</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP41</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP41</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：13.0%</COLOR><BR>]=],day=40,reward_item={{itemid=12208,count=14,bind=1,effect=1023,},{itemid=50336,count=34,bind=1,effect=1023,},{itemid=11276,count=300,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=39200,},
+	[42]={lv=42,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=184,offline_extra=1.2,extra_exp=48,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加36%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第6页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加1050</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP42</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP42</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加8次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：13.5%</COLOR><BR>]=],day=45,reward_item={{itemid=12208,count=15,bind=1,effect=1023,},{itemid=50336,count=36,bind=1,effect=1023,},{itemid=11270,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=41000,},
+	[43]={lv=43,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=185,offline_extra=1.2,extra_exp=50,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加37%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第6页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加1100</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活9次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP43</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP43</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加9次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：14.0%</COLOR><BR>]=],day=50,reward_item={{itemid=12208,count=16,bind=1,effect=1023,},{itemid=50336,count=38,bind=1,effect=1023,},{itemid=11276,count=400,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=42800,},
+	[44]={lv=44,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=186,offline_extra=1.2,extra_exp=52,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加38%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第6页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加1150</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活9次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP44</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP44</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加9次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：14.5%</COLOR><BR>]=],day=55,reward_item={{itemid=12208,count=17,bind=1,effect=1023,},{itemid=50336,count=40,bind=1,effect=1023,},{itemid=11276,count=500,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=44600,},
+	[45]={lv=45,bossCategory={{id=14,num=10,},{id=15,num=10,},},buff_id=187,offline_extra=1.2,extra_exp=54,free_enter_boss_map=3,free_alive_times=8,bullion_use_times=200,auto_buy_drug=1,recycle_equip_quick=1,use_warehouse_quick=1,daily_pray=0,number=9,str1=[=[<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 1.VIP专属地图：VIP8层</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 2.杀怪爆率增加40%</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 3.仓库空间开启：第6页</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFd800ff> 4.随身仓库：开启</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 5.攻击上限增加1200</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFfff007> 6.每日免费复活10次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 7.VIP等级礼包：VIP45</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 8.VIP聊天标识：VIP45</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FF3f81f9> 9.赏金猎人额外增加10次</COLOR><BR>
+<RICHBTN IMG=resource/gui/vip_v_1.png TEXRECT={0,0,21,21}><COLOR VALUE=FFff1414> 10.提升攻击速度：15.0%</COLOR><BR>]=],day=60,reward_item={{itemid=12208,count=18,bind=1,effect=1023,},{itemid=50336,count=42,bind=1,effect=1023,},{itemid=11271,count=1,bind=1,effect=1023,},},Keepwarehouse=1,zhanli=46400,},
+}

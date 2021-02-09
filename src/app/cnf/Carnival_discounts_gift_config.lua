@@ -1,0 +1,23 @@
+Carnival_discounts_gift_config = {
+	[1]={id=1,day=1,price=13333,xiaoqi_price=6667,Displaygoldingot
+=26666,xiaoqi_Displaygoldingot
+=13333,icount=100.0,subclass=1,award={{itemid=13302,count=2,bind=1,effect=1023,},},god_prize={{itemid=50525,count=1,bind=1,},},},
+	[2]={id=2,day=2,price=9999,xiaoqi_price=5000,Displaygoldingot
+=22222,xiaoqi_Displaygoldingot
+=11111,icount=100.0,subclass=1,award={{itemid=13116,count=20,bind=1,effect=1023,},},god_prize={{itemid=50524,count=1,bind=1,},},},
+	[3]={id=3,day=3,price=9999,xiaoqi_price=5000,Displaygoldingot
+=22222,xiaoqi_Displaygoldingot
+=11111,icount=100.0,subclass=1,award={{itemid=13117,count=15,bind=1,effect=1023,},},god_prize={{itemid=50526,count=1,bind=1,},},},
+	[4]={id=4,day=4,price=12222,xiaoqi_price=6111,Displaygoldingot
+=29999,xiaoqi_Displaygoldingot
+=15000,icount=100.0,subclass=1,award={{itemid=11332,count=3,bind=1,effect=1023,},},god_prize={{itemid=50527,count=1,bind=1,},},},
+	[5]={id=5,day=5,price=38888,xiaoqi_price=19444,Displaygoldingot
+=49999,xiaoqi_Displaygoldingot
+=25000,icount=100.0,subclass=1,award={{itemid=10913,count=1,bind=1,effect=1023,},},god_prize={{itemid=50529,count=1,bind=1,},},},
+	[6]={id=6,day=6,price=38888,xiaoqi_price=19444,Displaygoldingot
+=49999,xiaoqi_Displaygoldingot
+=25000,icount=100.0,subclass=1,award={{itemid=13203,count=1,bind=1,effect=1023,},},god_prize={{itemid=50528,count=1,bind=1,},},},
+	[7]={id=7,day=7,price=49999,xiaoqi_price=25000,Displaygoldingot
+=59999,xiaoqi_Displaygoldingot
+=30000,icount=100.0,subclass=1,award={{itemid=13303,count=1,bind=1,effect=1023,},},god_prize={{itemid=50530,count=1,bind=1,},},},
+}

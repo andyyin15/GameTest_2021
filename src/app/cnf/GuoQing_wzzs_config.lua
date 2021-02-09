@@ -1,0 +1,17 @@
+GuoQing_wzzs_config = {
+	[1]={id=1,reward_list={{itemid=13303,count=1,bind=1,sign=3,},},},
+	[2]={id=2,reward_list={{itemid=50520,count=1,bind=0,sign=3,},},},
+	[3]={id=3,reward_list={{itemid=10080,count=1,bind=0,sign=3,},},},
+	[4]={id=4,reward_list={{itemid=20026,count=1,bind=0,sign=3,},},},
+	[5]={id=5,reward_list={{itemid=10079,count=1,bind=0,sign=3,},},},
+	[6]={id=6,reward_list={{itemid=10085,count=1,bind=0,sign=3,},},},
+	[7]={id=7,reward_list={{itemid=50374,count=1,bind=0,sign=3,},},},
+	[8]={id=8,reward_list={{itemid=12504,count=1,bind=0,sign=3,},},},
+	[9]={id=9,reward_list={{itemid=3401,count=1,bind=0,sign=0,},},},
+	[10]={id=10,reward_list={{itemid=13105,count=50,bind=0,sign=3,},},},
+	[11]={id=11,reward_list={{itemid=3601,count=1,bind=0,sign=0,},},},
+	[12]={id=12,reward_list={{itemid=50470,count=1,bind=0,sign=0,},},},
+	[13]={id=13,reward_list={{itemid=12703,count=1,bind=0,sign=3,},},},
+	[14]={id=14,reward_list={{itemid=12512,count=1,bind=0,sign=3,},},},
+	[15]={id=15,reward_list={{itemid=50520,count=1,bind=0,sign=3,},},},
+}

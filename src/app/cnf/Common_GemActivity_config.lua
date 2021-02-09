@@ -1,0 +1,18 @@
+Common_GemActivity_config = {
+	[1]={index=1,lv_limit=0,manei=68,xiaoqi_manei=136,show_list={{itemid=50099,count=60,bind=1,},{itemid=56008,count=1,bind=1,},{itemid=56015,count=1,bind=1,},},lanzida="68元购买",xiaoqi_lanzida="136元购买",tianshu=1,},
+	[2]={index=2,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60106,count=1,bind=1,},},lanzida="第1天开启",xiaoqi_lanzida="第1天开启",tianshu=1,},
+	[3]={index=3,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60406,count=1,bind=1,},},lanzida="第2天开启",xiaoqi_lanzida="第2天开启",tianshu=2,},
+	[4]={index=4,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60506,count=1,bind=1,},},lanzida="第3天开启",xiaoqi_lanzida="第3天开启",tianshu=3,},
+	[5]={index=5,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60306,count=1,bind=1,},},lanzida="第4天开启",xiaoqi_lanzida="第4天开启",tianshu=4,},
+	[6]={index=6,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60206,count=1,bind=1,},},lanzida="第5天开启",xiaoqi_lanzida="第5天开启",tianshu=5,},
+	[7]={index=7,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60106,count=1,bind=1,},},lanzida="第6天开启",xiaoqi_lanzida="第6天开启",tianshu=6,},
+	[8]={index=8,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60406,count=1,bind=1,},},lanzida="第7天开启",xiaoqi_lanzida="第7天开启",tianshu=7,},
+	[9]={index=9,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60506,count=1,bind=1,},},lanzida="第8天开启",xiaoqi_lanzida="第8天开启",tianshu=8,},
+	[10]={index=10,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60306,count=1,bind=1,},},lanzida="第9天开启",xiaoqi_lanzida="第9天开启",tianshu=9,},
+	[11]={index=11,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60206,count=1,bind=1,},},lanzida="第10天开启",xiaoqi_lanzida="第10天开启",tianshu=10,},
+	[12]={index=12,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60106,count=1,bind=1,},},lanzida="第11天开启",xiaoqi_lanzida="第11天开启",tianshu=11,},
+	[13]={index=13,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60406,count=1,bind=1,},},lanzida="第12天开启",xiaoqi_lanzida="第12天开启",tianshu=12,},
+	[14]={index=14,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60506,count=1,bind=1,},},lanzida="第13天开启",xiaoqi_lanzida="第13天开启",tianshu=13,},
+	[15]={index=15,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60306,count=1,bind=1,},},lanzida="第14天开启",xiaoqi_lanzida="第14天开启",tianshu=14,},
+	[16]={index=16,lv_limit=0,manei=0,xiaoqi_manei=0,show_list={{itemid=60206,count=1,bind=1,},},lanzida="第15天开启",xiaoqi_lanzida="第15天开启",tianshu=15,},
+}

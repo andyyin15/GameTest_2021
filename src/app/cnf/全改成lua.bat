@@ -1,0 +1,1 @@
+ren *.cnf* *.lua

@@ -1,0 +1,18 @@
+GameConfig.CnfM2P  = {
+	[7001]={id=7001,wp=30022,clo=21105,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7002]={id=7002,wp=30022,clo=21105,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7003]={id=7003,wp=30022,clo=21105,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7004]={id=7004,wp=30022,clo=21105,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7005]={id=7005,wp=30022,clo=21105,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7006]={id=7006,wp=30022,clo=21110,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7031]={id=7031,wp=30031,clo=21002,wing_id=0,haircut_id=12700,title_id=0,job=1,sex=1,monster_type=1,},
+	[7032]={id=7032,wp=30171,clo=21024,wing_id=0,haircut_id=12700,title_id=0,job=1,sex=1,monster_type=1,},
+	[7032]={id=7032,wp=30171,clo=21024,wing_id=0,haircut_id=12700,title_id=0,job=1,sex=1,monster_type=1,},
+	[7101]={id=7101,wp=12820,clo=21063,wing_id=0,haircut_id=12700,title_id=0,job=1,sex=1,monster_type=1,},
+	[7102]={id=7102,wp=12820,clo=21064,wing_id=0,haircut_id=12700,title_id=0,job=1,sex=1,monster_type=1,},
+	[7121]={id=7121,wp=30307,clo=22094,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7122]={id=7122,wp=30307,clo=22112,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7123]={id=7123,wp=30307,clo=21112,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7124]={id=7124,wp=30307,clo=21309,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+	[7125]={id=7125,wp=30307,clo=22181,wing_id=0,haircut_id=0,title_id=0,job=1,sex=1,monster_type=1,},
+}
